@@ -1,0 +1,11 @@
+<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="4" y="20" width="24" height="2" rx="1" fill="currentColor"/>
+  <rect x="6" y="18" width="20" height="2" rx="1" fill="currentColor"/>
+  <rect x="8" y="16" width="16" height="2" rx="1" fill="currentColor"/>
+  <rect x="10" y="14" width="12" height="2" rx="1" fill="currentColor"/>
+  <rect x="12" y="12" width="8" height="2" rx="1" fill="currentColor"/>
+  <path d="M16 4L20 8H12L16 4Z" fill="currentColor"/>
+  <circle cx="16" cy="10" r="1.5" fill="currentColor"/>
+  <path d="M14 22L16 24L18 22" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></content>
+<parameter name="filePath">c:\Users\Usuario\Documents\Code\Level Up Journey\level-up-journey\public\logo.svg

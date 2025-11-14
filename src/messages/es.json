@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "title": "Level Up Journey",
+    "signIn": "Iniciar Sesión",
+    "register": "Registrarse"
+  },
+  "hero": {
+    "title": "Bienvenido a tu espacio académico central",
+    "subtitle": "La comunidad es el aula extendida.",
+    "description": "Conecta con estudiantes y docentes, accede a recursos compartidos y mantén el ritmo de tus estudios."
+  },
+  "features": {
+    "title": "¿Qué encuentras en Level Up Journey?",
+    "subtitle": "Descubre las características que hacen de Level Up Journey la plataforma académica definitiva.",
+    "communities": {
+      "name": "Comunidades Académicas",
+      "description": "Espacios organizados para cada curso, proyecto y grupo de estudio con contenido conectado."
+    },
+    "feed": {
+      "name": "Feed Unificado",
+      "description": "Todo lo importante en un solo lugar: anuncios, materiales, eventos y recordatorios."
+    }
+  },
+  "experience": {
+    "title": "Para estudiantes y docentes",
+    "students": {
+      "title": "Para estudiantes",
+      "point1": "Un espacio ordenado donde nunca pierdes un anuncio.",
+      "point2": "Un feed central con todo lo que debes saber.",
+      "point3": "Comunidades que complementan la clase sin presión."
+    },
+    "teachers": {
+      "title": "Para docentes",
+      "point1": "Publicar contenido en segundos.",
+      "point2": "Alcance real: los estudiantes sí leen.",
+      "point3": "Histórico de publicaciones y métricas básicas."
+    }
+  },
+  "cta": {
+    "title": "Comienza hoy",
+    "description": "Únete a miles de estudiantes que están cambiando la forma en que viven la universidad.",
+    "primaryButton": "Crear Cuenta",
+    "secondaryButton": "Explorar Comunidades"
+  },
+  "footer": {
+    "copyright": "© 2025 Level Up Journey",
+    "tagline": "Construyendo la nueva experiencia universitaria"
+  }
+}
